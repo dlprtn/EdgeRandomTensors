@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    537808,      11661]
-NotebookOptionsPosition[    527935,      11507]
-NotebookOutlinePosition[    528330,      11523]
-CellTagsIndexPosition[    528287,      11520]
+NotebookDataLength[    538138,      11672]
+NotebookOptionsPosition[    528133,      11515]
+NotebookOutlinePosition[    528528,      11531]
+CellTagsIndexPosition[    528485,      11528]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -11491,6 +11491,8 @@ Cell["How did the contour for x=2 was obtained?", "Text",
 e18cfcb2ecbd"]
 }, Closed]],
 
+Cell[CellGroupData[{
+
 Cell["5. Appendix B", "Chapter",
  CellChangeTimes->{{3.9186313623313217`*^9, 3.9186313716880407`*^9}, {
    3.918631822800544*^9, 3.918631827526579*^9}, {3.9186334382241497`*^9, 
@@ -11502,12 +11504,18 @@ Cell["5. Appendix B", "Chapter",
    3.9326052631164637`*^9}, {3.932607550067142*^9, 3.932607553750548*^9}, {
    3.932609057180752*^9, 3.932609071900976*^9}, {3.932609117735229*^9, 
    3.932609122296571*^9}},ExpressionUUID->"c44b12a0-f8cd-4533-ae88-\
-d0c0d2e60aa1"]
+d0c0d2e60aa1"],
+
+Cell["some other change", "Section",
+ CellChangeTimes->{{3.93500221421603*^9, 
+  3.935002216535129*^9}},ExpressionUUID->"4638d9de-bb10-459a-a735-\
+72f6b75ba615"]
+}, Open  ]]
 }, Open  ]]
 },
 WindowSize->{808, 747},
 WindowMargins->{{60, Automatic}, {Automatic, 4}},
-FrontEndVersion->"13.2 for Mac OS X x86 (64-bit) (January 30, 2023)",
+FrontEndVersion->"12.2 for Mac OS X x86 (64-bit) (February 2, 2021)",
 StyleDefinitions->"Default.nb",
 ExpressionUUID->"13247874-410a-4159-b263-372011d4a709"
 ]
@@ -11661,11 +11669,12 @@ Cell[CellGroupData[{
 Cell[526040, 11472, 751, 11, 58, "Chapter",ExpressionUUID->"fa4bc65c-20c0-49bc-a58a-e379a2507286"],
 Cell[526794, 11485, 332, 5, 35, "Text",ExpressionUUID->"a61e390c-420e-4434-a339-e18cfcb2ecbd"]
 }, Closed]],
-Cell[527141, 11493, 778, 11, 58, "Chapter",ExpressionUUID->"c44b12a0-f8cd-4533-ae88-d0c0d2e60aa1"]
+Cell[CellGroupData[{
+Cell[527163, 11495, 778, 11, 58, "Chapter",ExpressionUUID->"c44b12a0-f8cd-4533-ae88-d0c0d2e60aa1"],
+Cell[527944, 11508, 161, 3, 67, "Section",ExpressionUUID->"4638d9de-bb10-459a-a735-72f6b75ba615"]
+}, Open  ]]
 }, Open  ]]
 }
 ]
 *)
-
-(* End of internal cache information *)
 
